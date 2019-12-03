@@ -1,0 +1,40 @@
+.container {
+  height: 90vh;
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 200px 200px 200px;
+}
+.cell {
+  color: white;
+  font-size: 4rem;
+  text-align: center;
+  padding: 1rem;
+}
+.cell-1 {
+  background: coral;
+}
+.cell-2 {
+  background: coral;
+}
+.cell-3 {
+  background: coral;
+}
+.cell-4 {
+  background: coral;
+}
+.cell-5 {
+  background: coral;
+}
+.cell-6 {
+  background: coral;
+}
+.cell-7 {
+  background: coral;
+}
+.cell-8 {
+  background: coral;
+}
+.cell-9 {
+  background: coral;
+}
